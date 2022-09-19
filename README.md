@@ -46,16 +46,39 @@ Server : tomcat 9<br>
 📌 ERD<br>
 ![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png)
 
-📌 임은진 작성 API(주소,) <br>
-- 클래스 메인 조회(ClassControllerImpl.java - classMain)
-- 클래스 등록 페이지(ClassControllerImpl.java - form)
-- 클래스 등록 기능 구현(ClassControllerImpl.java - addNewClass)
-- 클래스 리스트 출력(ClassControllerImpl.java - listClass)
-- 다중 파일 업로드 (ClassControllerImpl.java - upload)
-- 클래스 수정 페이지(ClassControllerImpl.java -editClass)
-- 클래스 수정 기능 구현(ClassControllerImpl.java - modClass)
-- 클래스 수정 이미지(ClassControllerImpl.java - uploadModImageFile)
-- 클래스 키워드 검색 리스트(ClassControllerImpl.java - searchList)
-- 클래스 상세페이지(ClassControllerImpl.java - classDetail)
-- 클래스 리뷰 등록(ClassControllerImpl.java - reviewAdd)
-- 클래스 리뷰 삭제(ClassControllerImpl.java - classReviewRemove)
+📌 임은진 작성 API <br>
+- 전체 메인 검색(MainController.java - searchMain)<br>
+- 클래스 메인 조회(ClassControllerImpl.java - classMain)<br>
+- 클래스 등록 페이지(ClassControllerImpl.java - form)<br>
+- 클래스 등록 기능 구현(ClassControllerImpl.java - addNewClass)<br>
+- 클래스 리스트 출력(ClassControllerImpl.java - listClass)<br>
+- 다중 파일 업로드 (ClassControllerImpl.java - upload)<br>
+- 클래스 수정 페이지(ClassControllerImpl.java -editClass)<br>
+- 클래스 수정 기능 구현(ClassControllerImpl.java - modClass)<br>
+- 클래스 수정 이미지(ClassControllerImpl.java - uploadModImageFile)<br>
+- 클래스 키워드 검색 리스트(ClassControllerImpl.java - searchList)<br>
+- 클래스 상세페이지(ClassControllerImpl.java - classDetail)<br>
+- 클래스 리뷰 등록(ClassControllerImpl.java - reviewAdd)<br>
+- 클래스 리뷰 삭제(ClassControllerImpl.java - classReviewRemove)<br><br>
+- 취미용품 메인 조회(ItemControllerImpl.java - itemMain)<br>
+- 취미용품 등록 페이지(ItemControllerImpl.java - form)<br>
+- 취미용품 등록 기능 구현(ItemControllerImpl.java - addNewItem)<br>
+- 취미용품 리스트 출력(ItemControllerImpl.java - listItem)<br>
+- 다중 파일 업로드 (ItemControllerImpl.java - upload)<br>
+- 취미용품 수정 페이지(ItemControllerImpl.java -editItem)<br>
+- 취미용품 수정 기능 구현(ItemControllerImpl.java - modItem)<br>
+- 취미용품 수정 이미지(ItemControllerImpl.java - uploadModImageFile)<br>
+- 취미용품 키워드 검색 리스트(ItemControllerImpl.java - searchList)<br>
+- 취미용품 상세페이지(ItemControllerImpl.java - itemDetail)<br>
+- 취미용품 리뷰 등록(ItemControllerImpl.java - reviewAdd)<br>
+- 취미용품 리뷰 삭제(ItemControllerImpl.java - itemReviewRemove)<br><br>
+- 장바구니 목록 출력(CartControllerImpl.java - cartClass)<br>
+- 장바구니 추가(CartControllerImpl.java - addCart)<br>
+- 장바구니 선택 삭제(CartControllerImpl.java - deleteCart)<br>
+- 장바구니 전체 삭제(CartControllerImpl.java - deleteAll)<br>
+- 장바구니 수량 변경(CartControllerImpl.java - quanEditCart)<br><br>
+- 주문 대기목록 출력(OrderContollerImpl.java - orderPage)
+- 주문 완료 페이지(OrderContollerImpl.java - orderPagePost)
+- 구매 목록 리스트(OrderContollerImpl.java - contractList)
+- 내 등록상품 리스트(MypageControllerImpl.java - myAddItem)
+- 내 리뷰 리스트(MypageControllerImpl.java - myReview)<br><br>
