@@ -46,6 +46,32 @@ Server : tomcat 9<br>
 📌 ERD<br>
 <img src="https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png" width="50%" height="50%"/>
 
+<br><br>
+📦 디렉토리 구성 (alto_new/project_Alto_spring/src/main)
+```
+📦 
+src│  ├─ main
+│  │  ├─ java
+│  └─ kr
+│     └─ co
+│        └─ alto // API문, MODEL2 작성
+├─ resources // xml 쿼리, 타일
+└─ webapp
+   ├─ META-INF
+   ├─ WEB-INF
+   │  ├─ config
+   │  ├─ lib
+   │  ├─ spring
+   │  ├─ views // 뷰단 jsp
+   │  └─ web.xml
+   └─ resources
+        ├─ css
+        ├─ img
+        └─ js
+
+```
+
+<br><br>
 📌 임은진 작성 API (뷰단 네이밍은 함수명과 동일합니다) <br>
 - 전체 메인 검색(MainController.java - searchMain)<br>
 - 클래스 메인 조회(ClassControllerImpl.java - classMain)<br>
