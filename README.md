@@ -44,7 +44,7 @@ Server : tomcat 9<br>
 형상관리 : git<br><br>
 
 📌 ERD<br>
-![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png)
+![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png){: width="50%"}
 
 📌 임은진 작성 API <br>
 - 전체 메인 검색(MainController.java - searchMain)<br>
