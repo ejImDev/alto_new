@@ -44,4 +44,5 @@ Server : tomcat 9<br>
 형상관리 : git<br><br>
 
 📌 테이블 구조<br>
+![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png)
 
