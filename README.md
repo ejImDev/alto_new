@@ -1,5 +1,5 @@
 🔗시현 영상 (임은진 구현 페이지)<br>
-[![Video Label](http://img.youtube.com/vi/kpr6VfRPj0c/0.jpg)](https://youtu.be/kpr6VfRPj0c)<br>
+[![Video Label](http://img.youtube.com/vi/kpr6VfRPj0c/0.jpg)](https://youtu.be/kpr6VfRPj0c)<br>https://youtu.be/kpr6VfRPj0c<br><br>
 
 ✈️ 소개
 ALTO는 취미생활을 주제로 한 모임 커뮤니티 및 클래스 수강 기능을 가지고 있습니다.<br> Alone-Together의 약자이며 취미 생활을 하고자 하는 개인을 대상으로 서비스를 제공합니다.<br><br>
