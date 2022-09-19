@@ -41,4 +41,7 @@ Back-End : JAVA 11, JSP<br>
 프레임워크 : Spring / MyBatis<br>
 데이터베이스 : Oracle<br>
 Server : tomcat 9<br>
-형상관리 : git<br>
+형상관리 : git<br><br>
+
+📌 테이블 구조<br>
+[enter link description here](https://photos.google.com/u/3/search/_tra_/photo/AF1QipPsrCRGrrGgw9lwUbH9jL4OChSTtb70GNsjotnN)
