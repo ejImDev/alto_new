@@ -44,9 +44,9 @@ Server : tomcat 9<br>
 형상관리 : git<br><br>
 
 📌 ERD<br>
-![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png){: width="50%"}
+![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png){: width="50%" height="50%"}
 
-📌 임은진 작성 API <br>
+📌 임은진 작성 API (뷰단 명칭은 함수명과 동일합니다) <br>
 - 전체 메인 검색(MainController.java - searchMain)<br>
 - 클래스 메인 조회(ClassControllerImpl.java - classMain)<br>
 - 클래스 등록 페이지(ClassControllerImpl.java - form)<br>
