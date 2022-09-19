@@ -43,6 +43,19 @@ Back-End : JAVA 11, JSP<br>
 Server : tomcat 9<br>
 형상관리 : git<br><br>
 
-📌 테이블 구조<br>
+📌 ERD<br>
 ![erd](https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png)
 
+📌 임은진 작성 API(주소,) <br>
+- 클래스 메인 조회(ClassControllerImpl.java - classMain)
+- 클래스 등록 페이지(ClassControllerImpl.java - form)
+- 클래스 등록 기능 구현(ClassControllerImpl.java - addNewClass)
+- 클래스 리스트 출력(ClassControllerImpl.java - listClass)
+- 다중 파일 업로드 (ClassControllerImpl.java - upload)
+- 클래스 수정 페이지(ClassControllerImpl.java -editClass)
+- 클래스 수정 기능 구현(ClassControllerImpl.java - modClass)
+- 클래스 수정 이미지(ClassControllerImpl.java - uploadModImageFile)
+- 클래스 키워드 검색 리스트(ClassControllerImpl.java - searchList)
+- 클래스 상세페이지(ClassControllerImpl.java - classDetail)
+- 클래스 리뷰 등록(ClassControllerImpl.java - reviewAdd)
+- 클래스 리뷰 삭제(ClassControllerImpl.java - classReviewRemove)
