@@ -47,22 +47,22 @@ Server : tomcat 9<br>
 <img src="https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png" width="50%" height="50%"/>
 
 <br><br>
-📦 디렉토리 구성 (alto_new/project_Alto_spring/src/main)
+📦 디렉토리 구성 (alto_new/project_Alto_spring/src/main) - Model2
 ```
 📦 
 src│  ├─ main
 │  │  ├─ java
 │  └─ kr
 │     └─ co
-│        └─ alto // API문, MODEL2 작성
-├─ resources // xml 쿼리, 타일
+│        └─ alto // Model, Controller API
+├─ resources // sql xml, 타일
 └─ webapp
    ├─ META-INF
    ├─ WEB-INF
    │  ├─ config
    │  ├─ lib
    │  ├─ spring
-   │  ├─ views // 뷰단 jsp
+   │  ├─ views // View단 jsp
    │  └─ web.xml
    └─ resources
         ├─ css
