@@ -44,7 +44,7 @@ Server : tomcat 9<br>
 형상관리 : git<br><br>
 
 📌 ERD<br>
-<img src="https://user-images.githubusercontent.com/102012107/191106499-3fb35c48-9ee0-4f62-a29f-e246ae0154e6.png" width="50%" height="50%"/>
+<img src="https://user-images.githubusercontent.com/102012107/191144261-39236843-5255-434a-b28b-2c23740c2e4a.png)" width="50%" height="50%"/>
 
 <br><br>
 📦 디렉토리 구성 (alto_new/project_Alto_spring/src/main) - Model2
