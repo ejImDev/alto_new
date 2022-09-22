@@ -16,7 +16,7 @@ ALTO는 취미생활을 주제로 한 모임 커뮤니티 및 클래스 수강 �
 👩‍💻 멤버 구성<br>
 김지선, 임은진<br><br>
 
-👩‍💻 담당 파트 (임은진)<br>
+👩‍💻 임은진 담당 파트<br>
 - 담당 페이지 프론트엔드단 구현 병행
 - DB 설계 (클래스, 클래스이미지, 취미용품, 취미용품이미지, 주문, 장바구니, 리뷰 등)
 - 클래스, 취미용품 메인
@@ -108,3 +108,7 @@ src│  ├─ main
 - 구매 목록 리스트(OrderContollerImpl.java - contractList)
 - 내 등록상품 리스트(MypageControllerImpl.java - myAddItem)
 - 내 리뷰 리스트(MypageControllerImpl.java - myReview)<br><br>
+
+🛠 향후 추가 구현 예정 리스트
+- 환불 기능<br>
+- 판매 관리 페이지<br>
