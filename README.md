@@ -72,7 +72,7 @@ src│  ├─ main
 ```
 
 <br><br>
-📌 임은진 작성 API (뷰단 네이밍은 함수명과 동일합니다) <br>
+📌 임은진 구현 API (View단 네이밍은 함수명과 동일합니다) <br>
 - 전체 메인 검색(MainController.java - searchMain)<br>
 - 클래스 메인 조회(ClassControllerImpl.java - classMain)<br>
 - 클래스 등록 페이지(ClassControllerImpl.java - form)<br>
@@ -109,6 +109,7 @@ src│  ├─ main
 - 내 등록상품 리스트(MypageControllerImpl.java - myAddItem)
 - 내 리뷰 리스트(MypageControllerImpl.java - myReview)<br><br>
 
-🛠 향후 추가 구현 예정 리스트
+🛠 향후 추가 개선 작업 리스트
 - 환불 기능<br>
 - 판매 관리 페이지<br>
+- AWS 배포 
